@@ -1,0 +1,10 @@
+<! -- 2.- En una hoja de cálculos (Sheet de google) realiza la siguiente
+actividad:-- >
+Paso 1: Obtener Correo de editor
+activo y escribirlo en la celda B1.
+Paso 2: Obtener la fecha y
+escribirlo en la celda B2
+Paso 3: Obtener la hora y
+escribirlo en la celda B3
+Paso 4: Bloquear el rango A1:B3.
+Nota: todo mediante AppsCript

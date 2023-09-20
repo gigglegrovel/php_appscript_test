@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>CRUD Application</title>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+</head>
+<body>
+
+<h1>User Management</h1>
+
+<form id='createUserForm'>
+  <label for='name'>Name:</label><br>
+  <input type='text' id='name' name='name'><br>
+  <label for='email'>Email:</label><br>
+  <input type='text' id='email' name='email'><br>
+  <input type='submit' value='Create User'>
+</form>
+
+<table id='usersTable'>
+  <!-- Users will be displayed here -->
+</table>
+
+<script src='crud.js'></script>
+</body>
+</html>
